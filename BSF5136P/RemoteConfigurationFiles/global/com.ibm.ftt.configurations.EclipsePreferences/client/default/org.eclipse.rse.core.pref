@@ -1,0 +1,9 @@
+# 
+#Fri Jul 22 15:51:36 VET 2022
+org.eclipse.rse.systemtype.unix.systemType.enabled=true
+# 
+#Fri Jul 22 15:51:36 VET 2022
+org.eclipse.rse.systemtype.linux.systemType.enabled=true
+# 
+#Fri Jul 22 15:51:36 VET 2022
+org.eclipse.rse.systemtype.windows.systemType.enabled=true
